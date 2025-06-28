@@ -19,7 +19,6 @@ let state;
 //undefined => value are not assign right now
 //symbol => unique
 
-
 //Objects
 
 console.log(typeof undefined) // undifined
